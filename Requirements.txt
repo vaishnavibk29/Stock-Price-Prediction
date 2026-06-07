@@ -1,0 +1,12 @@
+REQUIREMTNS LIST : 
+
+tensorflow
+scikit-learn
+xgboost
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+fastparquet
+jupyter
